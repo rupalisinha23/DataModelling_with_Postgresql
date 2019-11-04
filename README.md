@@ -4,7 +4,8 @@ The project is a simple data modelling exercise to collect the data from heterog
 
 ## Data Storage Format: STAR SCHEMA
 The songplays table is the fact table which is connected to the various dimension tables as shown.
-figure
+
+![star](img/star.png)
 
 ## Prerequisites
 1. Postgresql
